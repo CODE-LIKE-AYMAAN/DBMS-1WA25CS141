@@ -1,0 +1,1 @@
+THIS IS LAB 2 of DBMS
